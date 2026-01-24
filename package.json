@@ -88,7 +88,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "@commitlint/cli": "^8.3.4",
+    "@commitlint/cli": "^20.3.1",
     "@rollup/plugin-commonjs": "^11.1.0",
     "ajv": "^6.12.2",
     "ajv-merge-patch": "^4.1.0",
@@ -97,7 +97,7 @@
     "breakpoint-sass": "^2.7.1",
     "cheerio": "^1.0.0-rc.3",
     "cli-spinner": "^0.2.10",
-    "commitizen": "^4.1.2",
+    "commitizen": "^4.2.4",
     "cross-env": "^7.0.2",
     "del-cli": "^2.0.0",
     "emoji-commit-helpers": "^0.1.1",
